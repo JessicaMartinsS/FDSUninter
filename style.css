@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Style+Script&display=swap');
+
+
+body{
+    background-color: antiquewhite;
+    font-family: Caveat, cursive;
+    font-size: 30px;
+    padding: auto;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.titulo{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(94, 139, 182);
+    margin-top: 60px;
+}
+.paragrafo{
+    font-size: 50px;
+    text-align: justify;
+    margin: 2px;
+    padding-left: 10px;
+}
+.botao{
+    margin: 25%;
+    align-items: center;
+    text-decoration: none;
+    color:blueviolet;
+    background-color: rgb(221, 191, 248); 
+}
+.botaoMsg:hover{
+    color: rgb(221, 191, 248);
+    background-color:blueviolet;
+}
+ul{
+    margin-bottom: 50px;
+    margin-top: 50px;
+   
+}
+.imagemlista{
+    margin-bottom: 50px;
+    margin: auto;
+    text-align: center;
+}
+img{
+    border-radius: 5%;
+}
+table, th, td{
+    margin: auto;
+    align-items: center;
+    border: 1.5px solid;
+    padding: 8px;
+    background-color: rgb(247, 212, 168);
+}
+.imagemTabela{
+    width: 100px;
+}
+a{
+    display: block;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 15%;
+    text-align: center;
+    text-decoration: none;
+    color:blueviolet;
+    background-color: rgb(221, 191, 248);    
+}
+a:hover{
+    color: rgb(221, 191, 248);
+    background-color:blueviolet;
+}

@@ -1,0 +1,12 @@
+button{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 2%;
+    width: auto;
+    height: auto;
+    background-color: rgb(202, 160, 241);
+    border-radius: 10%;
+    color:rgb(75, 8, 138);
+    font-style:italic;
+}
